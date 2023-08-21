@@ -10,15 +10,15 @@ https://github.com/shalinibhatt/shalinibhatt
 -->
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bioinformatician,+Biologist)](https://git.io/typing-svg) </br>
 > [Skoltech](https://crei.skoltech.ru/cls/people/nikitavaulin), MSc Life Sciences </br>
-> CRISPR-assitiated student at 
-> Prof. _Severinov's_ lab
+> Studying schizophrenia using Hi-C in
+> Prof. Khrameeva_ lab
 
 ### I am:
  - 💻 Bioinformatician and molecular biologist 
- - 🧬 Reseaching CRISPR-Cas systems 
+ - 🧬 Reseaching schizophrenia, metagenomics and CRISPR-Cas systems 
  - 🔬Finished BSc in biophysics
  - ⚙️ Would like to develop my own tools
- - 👨‍🏫 I wish to teach (in fact, I had my own short course)
+ - 👨‍🏫 I wish to teach (and dreams come true)
  - 👬 I run my own bioinformatics club
  - 💅 I like skiing and chess
 
