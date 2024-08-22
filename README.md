@@ -9,18 +9,16 @@
 https://github.com/shalinibhatt/shalinibhatt
 -->
 > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bioinformatician,+Biologist)](https://git.io/typing-svg) </br>
-> [Skoltech](https://crei.skoltech.ru/cls/people/nikitavaulin), MSc Life Sciences </br>
-> Studying schizophrenia using Hi-C in
-> prof. _Khrameeva_ lab
+> MedUni Wien, PhD in nerosciences <br>
+> Studying cell fate decisions using scRNA-seq in
+> prof. [_Adameyko_](adameykolab.eu) lab
 
 ### I am:
  - 💻 Bioinformatician and molecular biologist 
- - 🧬 Reseaching schizophrenia, metagenomics and CRISPR-Cas systems 
- - 🔬Finished BSc in biophysics
- - ⚙️ Would like to develop my own tools
- - 👨‍🏫 I wish to teach (and dreams come true)
- - 👬 I run my own bioinformatics club
- - 💅 I like skiing and chess
+ - 🧬 Huge fan of omics data analysis
+ - 🔬 Finished BSc in biophysics and MSc in life sciences
+ - 👨‍🏫 Teaching python in [Bioinformatics institute](bioinf.me)
+ - 💅 Like skiing and chess
 
 
 ### Skills: 
